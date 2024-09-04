@@ -1,4 +1,4 @@
-# MicroPython-for-microbit
+# Programming with MicroPython
 Learn about all the programming techniques in the GCSE Computer Science curriculum using micro:python to program a micro:bit. Learners apply these techniques across several projects, mirroring real-world product development.
 
 ## [Download here](https://github.com/arm-university/MicroPython-for-microbit/archive/refs/heads/main.zip)
@@ -7,9 +7,9 @@ Learn about all the programming techniques in the GCSE Computer Science curricul
 This programming course covers the foundational computational techniques required for 14-16 Computer Science in the UK. It also introduces learners to the key STEM topics of iterative development, abstraction, decomposition and creative problem solving through project-based learning. Learners will be immersed in a series of projects which involve rapid team-based development of a solution to meet specified criteria.
 
 ## Resource Structure
-Intro to programming (lessons 1-6)
+## Programming with MicroPython
 
-### Getting started and baselining 
+### Getting started and baselining (lessons 1-6)
 - Images, variables and functions
 - Event handling and buttons
 - Variables, selections and incrementing a stored value
